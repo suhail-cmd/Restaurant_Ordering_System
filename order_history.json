@@ -1,0 +1,15 @@
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Paneer Butter Masala", "qty": 1, "price": 180}, {"name": "Ice Cream", "qty": 2, "price": 100}, {"name": "Chocolate Cake", "qty": 2, "price": 250}], "total": 860}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Chocolate Cake", "qty": 3, "price": 250}, {"name": "Veg Biryani", "qty": 1, "price": 150}], "total": 880}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}, {"name": "Coke", "qty": 1, "price": 60}], "total": 540}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Cold Coffee", "qty": 1, "price": 120}], "total": 120}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Ice Cream", "qty": 1, "price": 100}, {"name": "Coke", "qty": 1, "price": 60}], "total": 160}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Ice Cream", "qty": 6, "price": 100}, {"name": "Coke", "qty": 1, "price": 60}], "total": 640}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Ice Cream", "qty": 1, "price": 100}], "total": 100}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}], "total": 480}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Ice Cream", "qty": 1, "price": 100}, {"name": "Chocolate Cake", "qty": 1, "price": 250}], "total": 350}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Ice Cream", "qty": 1, "price": 100}], "total": 100}
+{"customer": "Suhail", "phone": "7013214802", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}], "total": 480}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}, {"name": "Ice Cream", "qty": 2, "price": 100}, {"name": "Veg Biryani", "qty": 1, "price": 150}], "total": 830}
+{"customer": "karshifa", "phone": "9346479199", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}, {"name": "Ice Cream", "qty": 2, "price": 100}, {"name": "Coke", "qty": 1, "price": 60}], "total": 740}
+{"customer": "karshifa", "phone": "7995420588", "items": [{"name": "Chocolate Cake", "qty": 2, "price": 250}, {"name": "Ice Cream", "qty": 2, "price": 100}, {"name": "Coke", "qty": 1, "price": 60}], "total": 740}
+{"customer": "Deepak", "phone": "7013319565", "items": [{"name": "Chocolate Cake", "qty": 3, "price": 250}], "total": 730}
